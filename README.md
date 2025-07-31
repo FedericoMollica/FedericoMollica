@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Federico Mollica - MIGS (Magnus Indie Game Studio)
+# 👋 Hi, I'm Federico Mollica - MIGS (MagnusRake Indie Game Studio)
 
 ## 🩺 Medical Doctor | 🖥 Imaging Scientist | 👾 Coder | 🍓 Raspberry Pi Lover | 🤖 Startup Co-founder
 
