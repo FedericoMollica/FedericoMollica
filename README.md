@@ -3,7 +3,7 @@
 🩺 Medical Doctor | 🖥 Imaging Scientist | 👾 Coder | 🍓 Raspberry Pi Lover 
 🤖 AI in Heathcare Startup Co-founder
 
-## [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-mollica-502214153/)
+##          [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-mollica-502214153/)
 
 Welcome to my GitHub profile! Here, you’ll find:
 - 🔬 Imaging Science Projects
