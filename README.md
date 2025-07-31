@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Federico Mollica - MIGS (Magnus Indie Game Studio)
 
-<!--
-**FedericoMollica/FedericoMollica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🩺 Medical Doctor | 🖥 Imaging Scientist | 👾 Coder | 🍓 Raspberry Pi Lover | 🤖 Startup Co-founder
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here, you’ll find:
+- 🔬 Imaging Science Projects
+- 💻 Medical Tools I’ve Built
+- 🎮 Indie Video Games 
+- 🥇 Raspberry Pi Hacks and Guides
+- 🧠 AI and Digital Health projects with [Datamonai](https://datamonai.com/) 
+- ✍️ Blog Posts on AI, Raspberry Pi, and Tech [Federico Mollica- Tech Blog](https://fmollica.flazio.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curious? Check out my [personal website](https://fmollica.flazio.com/) for more!
+
+---
