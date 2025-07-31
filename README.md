@@ -1,7 +1,7 @@
 # Federico Mollica - MIGS (MagnusRake Indie Game Studio)
 
-## 🩺 Medical Doctor | 🖥 Imaging Scientist | 👾 Coder | 🍓 Raspberry Pi Lover 
-## 🤖 AI in Heathcare Startup Co-founder
+🩺 Medical Doctor | 🖥 Imaging Scientist | 👾 Coder | 🍓 Raspberry Pi Lover 
+🤖 AI in Heathcare Startup Co-founder
 
 ## My Profile:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-mollica-502214153/)
 
