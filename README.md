@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here, you’ll find:
 - 💻 Medical Tools I’ve Built
 - 🎮 Indie Video Games 
 - 🥇 Raspberry Pi Hacks and Guides
-- 🧠 AI and Digital Health projects with [Datamonai](https://datamonai.com/) 
+- 🧠 AI and Digital Health projects with [Data MonAI](https://datamonai.com/) 
 - ✍️ Blog Posts on AI, Raspberry Pi, and Tech [Federico Mollica- Tech Blog](https://fmollica.flazio.com/)
 
 Curious? Check out my [personal website](https://fmollica.flazio.com/) for more!
