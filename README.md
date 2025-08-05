@@ -4,7 +4,8 @@
 🤖 AI in Heathcare Startup Co-founder
 
 ##[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-mollica-502214153/)
-##[![ORCID]([https://img.shields.io/badge/-ORCID-00A6A6?style=flat&logo=orcidace](https://orcid.org/0000-0001-8417-9201)
+##[![ORCID](https://img.shields.io/badge/-ORCID-00A6A6?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8417-9201)
+
 
 Welcome to my GitHub profile! Here, you’ll find:
 - 🔬 Imaging Science Projects
